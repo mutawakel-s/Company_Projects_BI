@@ -5,7 +5,7 @@ I have worked as a BI Developer for this project which uses Power BI, Dax, MS SQ
 
 ![Sample Graph](https://github.com/mutawakel-s/Sales-BI-Project/blob/main/Home%20Page2.png)
 
-# * Following is a screenshot of the Sales BI Dashboard:
+# * Following is a screenshot of the Project Dashboards:
 ![Sample Graph](https://github.com/mutawakel-s/Company_Projects_BI/blob/main/Company%20Projects%20Report.png)
 
 ![Sample Graph](https://github.com/mutawakel-s/Company_Projects_BI/blob/main/Project%20Tasks%20Report.png)
